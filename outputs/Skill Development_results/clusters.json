@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "analysis_type": "statistical_summary",
+  "message": "General dataset analyzed - clustering not applicable",
+  "columns_analyzed": [
+    "activity",
+    "2015_16",
+    "2016_17_(upto_jan_17)"
+  ],
+  "total_records": 4,
+  "statistical_summary": {
+    "activity": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    },
+    "2015_16": {
+      "mean": 18605.0,
+      "std": 21544.867200023924,
+      "min": 298.0,
+      "max": 43496.0
+    },
+    "2016_17_(upto_jan_17)": {
+      "mean": 22842.5,
+      "std": 25048.724751305537,
+      "min": 527.0,
+      "max": 45229.0
+    }
+  }
+}

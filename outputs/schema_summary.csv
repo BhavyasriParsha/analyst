@@ -1,0 +1,4 @@
+column,dtype,non_null,null_count,unique_count
+activity,object,4,0,4
+2015_16,int64,4,0,4
+2016_17_(upto_jan_17),int64,4,0,4
