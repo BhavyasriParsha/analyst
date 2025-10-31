@@ -237,12 +237,4 @@ pip install -r requirements.txt
 - **CrewAI** - Multi-agent orchestration framework
 - **Matplotlib** - Visualization generation
 - **Groq API** - AI-powered narrative insights (configurable)
-
----
-
-*Developed for hackathons, recruitment demos, and real-world governance applications*
-#   a n a l y s t 
- 
- #   a n a l y s t 
- 
  
