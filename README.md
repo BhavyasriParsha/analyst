@@ -1,8 +1,3 @@
-## 🎬 Demo Video
-
-[🎥 Watch 2-minute demo](https://drive.google.com/file/d/133J2FJHBIn4Cn56Kdl9lOTDmdV62KpCx/view?usp=sharing) - See the complete pipeline in action
-
-
 # 🏛️ RTGS CLI - Real-Time Governance System
 
 [![Production Ready](https://img.shields.io/badge/Status-Production%20Ready-green)](https://github.com/your-repo)
@@ -246,6 +241,8 @@ pip install -r requirements.txt
 ---
 
 *Developed for hackathons, recruitment demos, and real-world governance applications*
-#   a n a l y s t  
- #   a n a l y s t  
+#   a n a l y s t 
+ 
+ #   a n a l y s t 
+ 
  
