@@ -229,7 +229,6 @@ pip install -r requirements.txt
 - **Risk Categorization**: Critical, High, Medium levels assigned
 - **Policy Insights**: AI-powered recommendations for all regions
 
-
 ## 🏗️ Built With
 
 - **Python 3.11+** - Core runtime
@@ -237,4 +236,3 @@ pip install -r requirements.txt
 - **CrewAI** - Multi-agent orchestration framework
 - **Matplotlib** - Visualization generation
 - **Groq API** - AI-powered narrative insights (configurable)
- 
